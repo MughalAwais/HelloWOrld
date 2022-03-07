@@ -11,7 +11,7 @@
         android:layout_width="238dp"
         android:layout_height="179dp"
         android:layout_marginStart="84dp"
-        android:text="@string/hello_world"
+        android:text="@string/app_name"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
